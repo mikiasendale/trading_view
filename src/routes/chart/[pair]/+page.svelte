@@ -9,6 +9,7 @@
         gbpjpy: "CMCMARKETS:GBPJPY",
         gold: "CAPITALCOM:GOLD",
         usdjpy: "CMCMARKETS:USDJPY",
+        dxy: "TICKMILL:DXY",
         us100: "CAPITALCOM:US100"
         // Add more pairs here as needed
     };
